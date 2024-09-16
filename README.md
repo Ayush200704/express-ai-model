@@ -54,7 +54,7 @@ You can test the API using Postman or any HTTP client. Here's how to do it with 
 
 1. Open Postman
 2. Create a new POST request
-3. Set the URL to `http://localhost:3000/predict` (adjust if your server is running on a different port)
+3. Set the URL to `http://localhost:5000/predict` 
 4. Set the request body to raw JSON and input the following:
 
 ```json
