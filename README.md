@@ -28,25 +28,16 @@ This project demonstrates the integration of a machine learning model with an Ex
 
 ## Running the Application
 
-### 1. Python Prediction Script
 
-First, run the Python script to ensure the model is working correctly:
+### 1. Express.js Server
 
-```
-python predict.py
-```
-
-This script should load the model and be ready to make predictions.
-
-### 2. Express.js Server
-
-Next, start the Express.js server:
+start the Express.js server:
 
 ```
 npm run dev
 ```
 
-The server should start and you'll see a message like "Server running on port 3000".
+The server should start and you'll see a message like "Node.js server running at http://localhost:5000".
 
 ## Testing the API
 
